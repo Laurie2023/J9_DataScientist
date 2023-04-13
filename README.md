@@ -6,7 +6,7 @@ Vous trouverez dans le fichier "lib" les deux exercices de ce jour :
   
   
 Les deux programmes sont munis d'un menu de navigation qui répond aux questions, laissez-vous guider ! 
-Des commentaires ont été inserer dans le code pour améliorer sa compréhension (notamment titre de def, etc.). 
+Des commentaires ont été inserés dans le code pour améliorer sa compréhension (notamment titre de def, etc.). 
 
 A votre disposition au besoin, 
 Laurie
